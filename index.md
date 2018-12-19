@@ -2,4 +2,4 @@
 
 lien
 
-<a href="/patate/patates.html"> patates <a>
+<a href="/patates/patates.html"> patates <a>
