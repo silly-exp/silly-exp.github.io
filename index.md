@@ -2,13 +2,13 @@
 
 lien
 
-<a href="/patates/patates.html"> patates <a>
+<a href="/_documents/patates/patates.html"> patates <a>
 
 <ul>
-  {% for post in site.posts %}
+  {% for doc in site.documents %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
+      <h2><a href="{{ doc.url }}">{{ doc.title }}</a></h2>
+      <p>{{ doc.excerpt }}</p>
     </li>
   {% endfor %}
 </ul>
