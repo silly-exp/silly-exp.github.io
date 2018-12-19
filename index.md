@@ -2,4 +2,4 @@
 
 lien
 
-patate/patates.md
+<a href="/patate/patates.html"> patates <a>
